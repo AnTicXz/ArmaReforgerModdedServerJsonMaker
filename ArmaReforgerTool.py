@@ -24,15 +24,14 @@ def openFile():
     for item in jsonfiles:
         with open(item,encoding='utf-8-sig') as file:
             data = json.load(file)
-            r.append(IntVar())
-            Checkbutton(window, text = data["name"],variable = r[counter],onvalue=1,offvalue=0).pack()
+            var = IntVar()
+            Checkbutton(window, text = data["name"],variable = var,onvalue=1,offvalue=0).pack()
+            r.append(var)
             counter += 1
-
-
-
 
     def CreateJson(): 
         counter = 0
+        print(r)
         for x in jsonfiles:
             if r[counter] == 1:       
                 with open(x,encoding='utf-8-sig') as file:
