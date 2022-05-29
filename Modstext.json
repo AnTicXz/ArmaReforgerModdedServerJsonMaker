@@ -1,0 +1,197 @@
+"mods": [
+     {
+          "modsId":"5614E48126E3ADF2",
+          "name":"Sample Mod - New Faction",
+          "version":"1.0.1"
+     },
+     {
+          "modsId":"5614E481506D2979",
+          "name":"Sample Mod - New Weapon",
+          "version":"1.0.1"
+     },
+     {
+          "modsId":"5614E48153A5B50D",
+          "name":"Sample Mod - New Prop",
+          "version":"1.0.1"
+     },
+     {
+          "modsId":"5614E48162D7B84F",
+          "name":"Sample Mod - Main Addon",
+          "version":"1.0.1"
+     },
+     {
+          "modsId":"5614E4816F653D1A",
+          "name":"Sample Mod - Workbench Plugin",
+          "version":"1.0.1"
+     },
+     {
+          "modsId":"5614E4829EAE4BB1",
+          "name":"Sample Mod - Modded Car",
+          "version":"1.0.1"
+     },
+     {
+          "modsId":"5614E482B37103E5",
+          "name":"Sample Mod - Modded Script",
+          "version":"1.0.1"
+     },
+     {
+          "modsId":"5614E482B628B28D",
+          "name":"Sample Mod - Modded Weapon",
+          "version":"1.0.2"
+     },
+     {
+          "modsId":"5614E482BF83E310",
+          "name":"Sample Mod - New Car",
+          "version":"1.0.1"
+     },
+     {
+          "modsId":"591AF5BDA9F7CE8B",
+          "name":"Capture & Hold",
+          "version":"1.0.0"
+     },
+     {
+          "modsId":"595F2BF2F44836FB",
+          "name":"RHS - Status Quo",
+          "version":"0.0.7"
+     },
+     {
+          "modsId":"5964977601D3F34D",
+          "name":"WIP Weapons",
+          "version":"1.0.27"
+     },
+     {
+          "modsId":"5964D48CF52ED8A1",
+          "name":"MICH2001 Project",
+          "version":"0.0.65"
+     },
+     {
+          "modsId":"5964DEB95094A1FE",
+          "name":"HoneyBadger",
+          "version":"1.0.5"
+     },
+     {
+          "modsId":"59651354B2904BA6",
+          "name":"BetterHitsEffects",
+          "version":"2.0.0"
+     },
+     {
+          "modsId":"5965394CB7E46A4A",
+          "name":"Stamina Bar",
+          "version":"1.1.0"
+     },
+     {
+          "modsId":"5965550F24A0C152",
+          "name":"Where Am I",
+          "version":"1.0.3"
+     },
+     {
+          "modsId":"59656131C3A0BAD4",
+          "name":"helmet_01",
+          "version":"1.0.0"
+     },
+     {
+          "modsId":"5965770215E93269",
+          "name":"M4 - MK18 with SpecterDR 1-4x",
+          "version":"1.0.6"
+     },
+     {
+          "modsId":"59664C0CB36501CD",
+          "name":"BloodLust2",
+          "version":"0.3.0"
+     },
+     {
+          "modsId":"596656C06830A0B7",
+          "name":"ShArms",
+          "version":"1.0.1"
+     },
+     {
+          "modsId":"59669B62DD107269",
+          "name":"M1911 - BLUFOR",
+          "version":"1.0.1"
+     },
+     {
+          "modsId":"596707316B43E818",
+          "name":"Colt 3x20",
+          "version":"2.0.3"
+     },
+     {
+          "modsId":"59673B6FBB95459F",
+          "name":"BetterTracers",
+          "version":"1.0.5"
+     },
+     {
+          "modsId":"59689E02BA18B635",
+          "name":"Unflip Me",
+          "version":"1.0.0"
+     },
+     {
+          "modsId":"5969492A8BE2DD25",
+          "name":"Conflict Enhanced",
+          "version":"1.1.1"
+     },
+     {
+          "modsId":"596B3717B10FFB07",
+          "name":"MapAndDrive",
+          "version":"1.0.1"
+     },
+     {
+          "modsId":"596B506D04F0E78B",
+          "name":"Vietnam War Radio",
+          "version":"1.0.2"
+     },
+     {
+          "modsId":"596C5A9C178F9259",
+          "name":"Show Ammo Count",
+          "version":"1.0.17"
+     },
+     {
+          "modsId":"596C8ACCF45447EE",
+          "name":"Sig MCX Virtus",
+          "version":"1.0.4"
+     },
+     {
+          "modsId":"596C94595BB6474D",
+          "name":"Realistic grenades",
+          "version":"1.0.2"
+     },
+     {
+          "modsId":"596CE5149F3F702A",
+          "name":"BetterDeathAnimations",
+          "version":"0.2.0"
+     },
+     {
+          "modsId":"596CF2E9A8058DBD",
+          "name":"Stance Indicator HUD",
+          "version":"0.9.0"
+     },
+     {
+          "modsId":"596D04C3A25ED3D2",
+          "name":"Map Waypoints",
+          "version":"1.0.1"
+     },
+     {
+          "modsId":"596EF42D11548E7D",
+          "name":"Inertia",
+          "version":"1.0.1"
+     },
+     {
+          "modsId":"596F05B6ADBF757F",
+          "name":"BTRVEE",
+          "version":"1.0.0"
+     },
+     {
+          "modsId":"596F37EE2445296E",
+          "name":"EjderYalcin_2022",
+          "version":"1.0.2"
+     },
+     {
+          "modsId":"59724947FF4038B3",
+          "name":"AK-12",
+          "version":"1.0.9"
+     },
+     {
+          "modsId":"5972FC1F90818410",
+          "name":"Better Death Animations Lite",
+          "version":"1.0.0"
+     },
+  ]

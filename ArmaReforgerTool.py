@@ -4,6 +4,7 @@ from tkinter import filedialog
 import os
 import json
 from traceback import print_tb
+from typing import Counter
 
 
 def openFile():
@@ -12,6 +13,7 @@ def openFile():
 
     f = open("Modstext.json","w")
     f.write("\"mods\": [")
+    f.close()
 
     jsonfiles = []
     for dirpath, subdirs, files in os.walk(filepath):
@@ -30,24 +32,26 @@ def openFile():
             counter += 1
 
     def CreateJson(): 
-        counter = 0
-        print(r)
+        counter = 1
         for x in jsonfiles:
-            if r[counter] == 1:       
+            #print(counter)
+            value = r[counter] 
+            print(value)
+            if value.get() == 1:       
                 with open(x,encoding='utf-8-sig') as file:
                     data = json.load(file)
+                    f = open("Modstext.json","a")
                     f.write("\n     {")
                     f.write("\n          \"modsId\":" + "\""+data["id"]+"\",")
                     f.write("\n          \"name\":" + "\""+data["name"]+"\",")
                     f.write("\n          \"version\":" + "\""+data["revision"]["version"]+"\"")
                 f.write("\n     },")    
-                counter += counter 
+                counter += 1 
             else:
-                counter += counter
+                counter += 1
                 pass
-        f = open("Modstext.json", "a")
         f.write("\n  ]")
-        f.close
+        f.close()
     
     button1 = Button(text="Create",command=CreateJson)
     button1.pack()  
